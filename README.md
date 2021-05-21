@@ -11,4 +11,5 @@ This project consists of three major infrastructure elements that work in tandem
 # S3 Bucket
 ![s3](assets/screenshot_of_s3_bucket.png)
 # AWS Kinesis configuration
-![kinesis](assets/assekinesis_config.png)
+![kinesis](assets/kinesis_config.png)
+

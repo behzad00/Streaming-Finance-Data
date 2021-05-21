@@ -8,8 +8,7 @@ This project consists of three major infrastructure elements that work in tandem
 3.	A serverless process that allows us to query our S3 data by configuring **AWS Glue** and using **AWS Athena** (DataAnalyzer)
 
 
-## [Analysis](https://github.com/behzad00/Streaming-Finance-Data.git)
-
-# Cluster Configuration
-![notebook](assets/screenshot_of_s3_bucket.png)
-![cluster](assekinesis_config.png)
+# S3 Bucket
+![s3](assets/screenshot_of_s3_bucket.png)
+# AWS Kinesis configuration
+![kinesis](assets/assekinesis_config.png)

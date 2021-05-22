@@ -9,6 +9,6 @@ This project consists of three major infrastructure elements that work in tandem
 
 
 
-# AWS Kinesis Kinesis Data Firehose Delivery Stream Monitoring 
+# AWS Kinesis Data Firehose Delivery Stream Monitoring 
 ![kinesis](assets/kinesis_config.png)
 

@@ -1,6 +1,6 @@
 # Streaming Finance Data with AWS Lambda
 
-In this project we used yfinance package and performed queries on 10 chosen stock for the date May 11th, 2021.With provisioning Amazon AWS Lambda Function, we generate near real time finance data and consume it.
+In this project we used yfinance Python package and performed queries on 10 chosen stock for the date May 11th, 2021. <br>With provisioning Amazon AWS Lambda Function, we generate near real time finance data and consume it.
 
 This project consists of three major infrastructure elements that work in tandem:
 1.	A **Lambda** function that gathers our data (DataTransformer)

@@ -8,8 +8,7 @@ This project consists of three major infrastructure elements that work in tandem
 3.	A serverless process that allows us to query our S3 data by configuring **AWS Glue** and using **AWS Athena** (DataAnalyzer)
 
 
-# S3 Bucket
-![s3](assets/screenshot_of_s3_bucket.png)
-# AWS Kinesis configuration
+
+# AWS Kinesis Kinesis Data Firehose Delivery Stream Monitoring 
 ![kinesis](assets/kinesis_config.png)
 
